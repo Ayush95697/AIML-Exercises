@@ -41,7 +41,7 @@ People post reviews about movies on websites like IMDb, Rotten Tomatoes, and Twi
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Assigment 2 <br>
-https://colab.research.google.com/drive/18HsJ_XkzEfcE0WzCnIAi8WZzLOWdgQHa?usp=sharing
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18HsJ_XkzEfcE0WzCnIAi8WZzLOWdgQHa?usp=sharing)
+__Link__: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1d_Wn1Ww0_cId2OPo3Q5suoSbRuBvAqX-?usp=sharing)
+
 
 
