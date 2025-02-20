@@ -44,6 +44,6 @@ People post reviews about movies on websites like IMDb, Rotten Tomatoes, and Twi
 __Link__: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1d_Wn1Ww0_cId2OPo3Q5suoSbRuBvAqX-?usp=sharing)
 
 ## Assignment :3 <br>
-numpy notebook-
+numpy notebook- http://localhost:8888/notebooks/100_Numpy_exercises.ipynb
 
 
