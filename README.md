@@ -46,6 +46,10 @@ __Link__: [![Open In Colab](https://colab.research.google.com/assets/colab-badge
 
 ## Assignment :3 <br>
 numpy solutions notebook- http://localhost:8888/notebooks/100_Numpy_exercises.ipynb <br>
-pandas solution notebook- http://localhost:8888/notebooks/100-pandas-puzzles.ipynb
+pandas solution notebook- http://localhost:8888/notebooks/100-pandas-puzzles.ipynb <br>
+10 Graphs of seaborn and matplotlib - http://localhost:8888/notebooks/9_decision_tree_salary_classification%5B1%5D.ipynb <br>
+
+
+## Assignment : 4
 
 
