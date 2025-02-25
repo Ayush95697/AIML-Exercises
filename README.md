@@ -54,6 +54,12 @@ pandas solution notebook- http://localhost:8888/notebooks/100-pandas-puzzles.ipy
 100 Questions notebook - http://localhost:8888/notebooks/100%20Question.ipynb <br>
 
 ## Assignment : 5 <br>
-__Simple LR, Multiple LR__ link : https://colab.research.google.com/drive/1qwQnFs8Q3ZwlmNvuXdijdQjXDipMVE-N?usp=sharing
-
+__Simple LR, Multiple LR__ link : https://colab.research.google.com/drive/1qwQnFs8Q3ZwlmNvuXdijdQjXDipMVE-N?usp=sharing <br>
+__Logistic__ link : https://colab.research.google.com/drive/1vHNGMERt9pQbSmbFO7reapcJ90e83TR2?usp=sharing <br>
+__Decision Tree Regressor, Decision Tree Claassifier__ link : https://colab.research.google.com/drive/1Htw_5fB5ceDnTJssCguRsR5O5o90ficO?usp=sharing  <br>
+__Random Forest__ link : https://colab.research.google.com/drive/12_72qO6CgFy-Rmo0pOubbmLqxrr0OyJP?usp=sharing <br>
+__Naive Bayes__ link : https://colab.research.google.com/drive/1OEkKUVojx2oUtf6W_KW7i_KzSaDKEHzx?usp=sharing <br>
+__SVC__ link : https://colab.research.google.com/drive/1pfB4SNFiVirvba5DOfLtWQh2rvV_ZOEO?usp=sharing <br>
+__XGBoost__ link : https://colab.research.google.com/drive/1GS4pkU2x3UHDYET9QwScPc60bIboAmqb?usp=sharing
+ 
 
