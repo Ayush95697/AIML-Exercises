@@ -54,5 +54,6 @@ pandas solution notebook- http://localhost:8888/notebooks/100-pandas-puzzles.ipy
 100 Questions notebook - http://localhost:8888/notebooks/100%20Question.ipynb <br>
 
 ## Assignment : 5 <br>
+__Simple LR, Multiple LR__ link : https://colab.research.google.com/drive/1qwQnFs8Q3ZwlmNvuXdijdQjXDipMVE-N?usp=sharing
 
 
