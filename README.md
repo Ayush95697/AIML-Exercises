@@ -60,6 +60,11 @@ __Decision Tree Regressor, Decision Tree Claassifier__ link : https://colab.rese
 __Random Forest__ link : https://colab.research.google.com/drive/12_72qO6CgFy-Rmo0pOubbmLqxrr0OyJP?usp=sharing <br>
 __Naive Bayes__ link : https://colab.research.google.com/drive/1OEkKUVojx2oUtf6W_KW7i_KzSaDKEHzx?usp=sharing <br>
 __SVC__ link : https://colab.research.google.com/drive/1pfB4SNFiVirvba5DOfLtWQh2rvV_ZOEO?usp=sharing <br>
-__XGBoost__ link : https://colab.research.google.com/drive/1GS4pkU2x3UHDYET9QwScPc60bIboAmqb?usp=sharing
+__XGBoost__ link : https://colab.research.google.com/drive/1GS4pkU2x3UHDYET9QwScPc60bIboAmqb?usp=sharing<br>
+
+
+## Assignment :  6 <br>
+For ANN : https://colab.research.google.com/drive/1vWFE54QfnJtscVWGuN4ArlYo29DIybAt#scrollTo=2hc-ztxqijCX <br>
+For CNN : https://colab.research.google.com/drive/1wc9QIwj62Zu4bMKjro1TR0P1ZOscXMH9#scrollTo=1_3Sq72zk2oY <br>
  
 
